@@ -2,8 +2,8 @@
 Este documento me va a mostrar datos hacerca del proyecto de lista de estudiantes
 Autor: Jhoana Delgado
 Ciudad: Cayambe
-Vesrion 1
-Version 2
-Version 3
-Version 4
-Version 5
+Este documento es la Vesrion 1
+Este documento es laVersion 2
+Este documento es la Version 3
+Este documento es la Version 4
+Este documento es la Version 5
